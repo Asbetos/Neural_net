@@ -97,6 +97,11 @@ train_data = create_train_data()
 test_data = process_test_data()
 #train_data = np.load('train_data.npy')
 #test_data = np.load('test_data.npy')
+#######################################
+#######################################
+
+
+
 '''Creating the neural network using tensorflow'''
 #Importing the required libraries
 import tflearn
